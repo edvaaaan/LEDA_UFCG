@@ -10,4 +10,4 @@ Repositório com os roteiros desenvolvidos ao longo da disciplina
 
 Roteiro | Tema abordado | Código
 :--: | :--: | :--:
-R01  | Ordenação por comparação (BubbleSort, SelectionSort, InsertionSort) | [Link]([Roteiros/R01-01-main](https://github.com/edvaaaan/LEDA_UFCG/tree/main/ROTEIROS/R01-01-Rot-SimpleSorting-Bidirectional-Bubble-environment))
+R01  | Ordenação por comparação (BubbleSort, SelectionSort, InsertionSort) | [Link]([Roteiros/R01-01-main])
