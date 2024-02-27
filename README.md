@@ -7,7 +7,7 @@ REPOSITÓRIO COM OS ROTEIROS DESENVOLVIDOS AO LONGO DA CADEIRA .
 ## 02 - OS ROTEIROS
 ROTEIRO | TEMA | PASTA
 :--: | :--: | :--:
-R01 | ORDENAÇÃO POR COMPARAÇÃO PT. 1 | [Link](https://github.com/edvaaaan/LEDA_UFCG/tree/main/ROTEIROS_LEDA/R01-01-Rot-SimpleSorting-Bidirectional-Bubble-environment)
+R01 | ORDENAÇÃO POR COMPARAÇÃO PT. 1 | [ROTEIRO 1](https://github.com/edvaaaan/LEDA_UFCG/tree/main/ROTEIROS_LEDA/R01-01-Rot-SimpleSorting-Bidirectional-Bubble-environment)
 R02 | ORDENAÇÃO POR COMPARAÇÃO PT. 2 | 28/02 -> 06/03
 R03 | ORDENAÇÃO POR COMPARAÇÃO PT. 3 | 01/03 -> 08/03
 R04 | ORDENAÇÃO EM TEMPO LINEAR | 08/03 -> 15/03
