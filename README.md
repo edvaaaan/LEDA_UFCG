@@ -8,7 +8,7 @@ REPOSITÓRIO COM OS ROTEIROS DESENVOLVIDOS AO LONGO DA CADEIRA .
 ROTEIRO | TEMA | PASTA
 :--: | :--: | :--:
 R01 | ORDENAÇÃO POR COMPARAÇÃO PT. 1 | [ROTEIRO 1](https://github.com/edvaaaan/LEDA_UFCG/tree/main/ROTEIROS_LEDA/R01-01-Rot-SimpleSorting-Bidirectional-Bubble-environment)
-R02 | ORDENAÇÃO POR COMPARAÇÃO PT. 2 | 28/02 -> 06/03
+R02 | ORDENAÇÃO POR COMPARAÇÃO PT. 2 | [ROTEIRO 2](https://github.com/edvaaaan/LEDA_UFCG/tree/main/ROTEIROS_LEDA/R02-01-Rot-RecursiveSorting-Quick3-Merge-environment)
 R03 | ORDENAÇÃO POR COMPARAÇÃO PT. 3 | SIMULADO 
 R04 | ORDENAÇÃO EM TEMPO LINEAR | 08/03 -> 15/03
 R05 | ESTATÍSTICA DE ORDEM E BUSCA BINÁRIA PT. 1 | 13/03 -> 20/03
